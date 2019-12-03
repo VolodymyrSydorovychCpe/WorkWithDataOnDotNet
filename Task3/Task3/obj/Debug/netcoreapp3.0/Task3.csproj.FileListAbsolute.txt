@@ -1,0 +1,11 @@
+D:\NURE\visual_projects\Task3\Task3\bin\Debug\netcoreapp3.0\Task3.exe
+D:\NURE\visual_projects\Task3\Task3\bin\Debug\netcoreapp3.0\Task3.deps.json
+D:\NURE\visual_projects\Task3\Task3\bin\Debug\netcoreapp3.0\Task3.runtimeconfig.json
+D:\NURE\visual_projects\Task3\Task3\bin\Debug\netcoreapp3.0\Task3.runtimeconfig.dev.json
+D:\NURE\visual_projects\Task3\Task3\bin\Debug\netcoreapp3.0\Task3.dll
+D:\NURE\visual_projects\Task3\Task3\bin\Debug\netcoreapp3.0\Task3.pdb
+D:\NURE\visual_projects\Task3\Task3\obj\Debug\netcoreapp3.0\Task3.csprojAssemblyReference.cache
+D:\NURE\visual_projects\Task3\Task3\obj\Debug\netcoreapp3.0\Task3.AssemblyInfoInputs.cache
+D:\NURE\visual_projects\Task3\Task3\obj\Debug\netcoreapp3.0\Task3.AssemblyInfo.cs
+D:\NURE\visual_projects\Task3\Task3\obj\Debug\netcoreapp3.0\Task3.dll
+D:\NURE\visual_projects\Task3\Task3\obj\Debug\netcoreapp3.0\Task3.pdb
