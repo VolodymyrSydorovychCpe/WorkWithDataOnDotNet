@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NURE\\visual_projects\\Task4\\Task4\\Task4.csproj": {}
+    "D:\\NURE\\visual_projects\\works\\WorkWithDataOnDotNet\\Task4\\Task4\\Task4.csproj": {}
   },
   "projects": {
-    "D:\\NURE\\visual_projects\\Task4\\Task4\\Task4.csproj": {
+    "D:\\NURE\\visual_projects\\works\\WorkWithDataOnDotNet\\Task4\\Task4\\Task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NURE\\visual_projects\\Task4\\Task4\\Task4.csproj",
+        "projectUniqueName": "D:\\NURE\\visual_projects\\works\\WorkWithDataOnDotNet\\Task4\\Task4\\Task4.csproj",
         "projectName": "Task4",
-        "projectPath": "D:\\NURE\\visual_projects\\Task4\\Task4\\Task4.csproj",
+        "projectPath": "D:\\NURE\\visual_projects\\works\\WorkWithDataOnDotNet\\Task4\\Task4\\Task4.csproj",
         "packagesPath": "C:\\Users\\Volodymyr_Sydorovych\\.nuget\\packages\\",
-        "outputPath": "D:\\NURE\\visual_projects\\Task4\\Task4\\obj\\",
+        "outputPath": "D:\\NURE\\visual_projects\\works\\WorkWithDataOnDotNet\\Task4\\Task4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Volodymyr_Sydorovych\\AppData\\Roaming\\NuGet\\NuGet.Config",

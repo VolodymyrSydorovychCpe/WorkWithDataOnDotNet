@@ -14,7 +14,7 @@ namespace Task1
             List<Tuple<int, int>> result = new List<Tuple<int, int>>();
             int maxPossibleNumberOfRabbits = lagsNumber / rabbitLagsNumber;
 
-            for (int rabbitsNumber = maxPossibleNumberOfRabbits; rabbitsNumber > 0; rabbitsNumber--)
+            for (int rabbitsNumber = maxPossibleNumberOfRabbits; rabbitsNumber >=  0; rabbitsNumber--)
             {
                 int ducksNumber = (lagsNumber - rabbitsNumber * rabbitLagsNumber) / duckLagsNumber;
                 result.Add(new Tuple<int, int>(rabbitsNumber, ducksNumber));

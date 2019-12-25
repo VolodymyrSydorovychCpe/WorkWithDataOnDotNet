@@ -5,31 +5,36 @@ namespace Task5
 {
     class Program
     {
+        private static String stringForClearUp;
+
+        private static String symbolsToRemove;
+
         static void Main(string[] args)
         {
             Console.WriteLine("Please input line where you want to remove symbols");
-            String stringForClearUp = Console.ReadLine();
+            stringForClearUp = Console.ReadLine();
             
             Console.WriteLine("Please input symbols that you want to remove");
-            String symbolsToRemove = Console.ReadLine();
+            symbolsToRemove = Console.ReadLine();
 
-            Console.WriteLine("Result is: " + RemoveSimillarSimbols(stringForClearUp, symbolsToRemove));
+            RemoveSimillarSimbols();
+
+            Console.WriteLine("Result is: " + stringForClearUp);
         }
 
-        private static String RemoveSimillarSimbols(String stringWhereRemove, String symbolsToRemove)
+        private static void RemoveSimillarSimbols()
         {
             List<char> result = new List<char>();
-            ;
             char[] symbolsToRemoveArray = symbolsToRemove.ToCharArray();
 
-            foreach(char item in stringWhereRemove.ToCharArray())
+            foreach(char item in stringForClearUp.ToCharArray())
             {
                 if (symbolsToRemove.IndexOf(item) < 0)
                 {
                     result.Add(item);
                 }
             }
-            return string.Join("", result);
+            stringForClearUp = string.Join("", result);
         }
     }
 }

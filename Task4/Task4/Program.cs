@@ -43,11 +43,14 @@ namespace Task4
             for (int i = 0; i < columnNumber; i++)
             {
                 int currentItem = matrix[currentRow, i];
+                if (hasRowNegativeNumber)
+                {
+                    sum += currentItem;
+                }
                 if (currentItem < 0)
                 {
                     hasRowNegativeNumber = true;
                 }
-                sum += currentItem;
             }
             return hasRowNegativeNumber ? sum : defaultValueForRowSum;
         }

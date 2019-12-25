@@ -7,7 +7,7 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Please input animals lags number");
+            Console.WriteLine("Please input animals5 lags number");
             int lagsNumber = int.Parse(Console.ReadLine());
 
             while (!AnimalCounter.IsValidNumberOfLags(lagsNumber))

@@ -9,3 +9,14 @@ D:\NURE\visual_projects\Task1\Task1\obj\Debug\netcoreapp3.0\Task1.AssemblyInfoIn
 D:\NURE\visual_projects\Task1\Task1\obj\Debug\netcoreapp3.0\Task1.AssemblyInfo.cs
 D:\NURE\visual_projects\Task1\Task1\obj\Debug\netcoreapp3.0\Task1.dll
 D:\NURE\visual_projects\Task1\Task1\obj\Debug\netcoreapp3.0\Task1.pdb
+D:\NURE\visual_projects\works\WorkWithDataOnDotNet\Task1\Task1\obj\Debug\netcoreapp3.0\Task1.csprojAssemblyReference.cache
+D:\NURE\visual_projects\works\WorkWithDataOnDotNet\Task1\Task1\obj\Debug\netcoreapp3.0\Task1.AssemblyInfoInputs.cache
+D:\NURE\visual_projects\works\WorkWithDataOnDotNet\Task1\Task1\obj\Debug\netcoreapp3.0\Task1.AssemblyInfo.cs
+D:\NURE\visual_projects\works\WorkWithDataOnDotNet\Task1\Task1\obj\Debug\netcoreapp3.0\Task1.dll
+D:\NURE\visual_projects\works\WorkWithDataOnDotNet\Task1\Task1\obj\Debug\netcoreapp3.0\Task1.pdb
+D:\NURE\visual_projects\works\WorkWithDataOnDotNet\Task1\Task1\bin\Debug\netcoreapp3.0\Task1.exe
+D:\NURE\visual_projects\works\WorkWithDataOnDotNet\Task1\Task1\bin\Debug\netcoreapp3.0\Task1.deps.json
+D:\NURE\visual_projects\works\WorkWithDataOnDotNet\Task1\Task1\bin\Debug\netcoreapp3.0\Task1.runtimeconfig.json
+D:\NURE\visual_projects\works\WorkWithDataOnDotNet\Task1\Task1\bin\Debug\netcoreapp3.0\Task1.runtimeconfig.dev.json
+D:\NURE\visual_projects\works\WorkWithDataOnDotNet\Task1\Task1\bin\Debug\netcoreapp3.0\Task1.dll
+D:\NURE\visual_projects\works\WorkWithDataOnDotNet\Task1\Task1\bin\Debug\netcoreapp3.0\Task1.pdb
