@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NURE\\visual_projects\\Task5\\Task5\\Task5.csproj": {}
+    "D:\\NURE\\visual_projects\\works\\WorkWithDataOnDotNet\\Task5\\Task5\\Task5.csproj": {}
   },
   "projects": {
-    "D:\\NURE\\visual_projects\\Task5\\Task5\\Task5.csproj": {
+    "D:\\NURE\\visual_projects\\works\\WorkWithDataOnDotNet\\Task5\\Task5\\Task5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NURE\\visual_projects\\Task5\\Task5\\Task5.csproj",
+        "projectUniqueName": "D:\\NURE\\visual_projects\\works\\WorkWithDataOnDotNet\\Task5\\Task5\\Task5.csproj",
         "projectName": "Task5",
-        "projectPath": "D:\\NURE\\visual_projects\\Task5\\Task5\\Task5.csproj",
+        "projectPath": "D:\\NURE\\visual_projects\\works\\WorkWithDataOnDotNet\\Task5\\Task5\\Task5.csproj",
         "packagesPath": "C:\\Users\\Volodymyr_Sydorovych\\.nuget\\packages\\",
-        "outputPath": "D:\\NURE\\visual_projects\\Task5\\Task5\\obj\\",
+        "outputPath": "D:\\NURE\\visual_projects\\works\\WorkWithDataOnDotNet\\Task5\\Task5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Volodymyr_Sydorovych\\AppData\\Roaming\\NuGet\\NuGet.Config",
