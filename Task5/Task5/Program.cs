@@ -1,40 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
+using System.Text;
 
 namespace Task5
 {
     class Program
     {
-        private static String stringForClearUp;
-
-        private static String symbolsToRemove;
-
         static void Main(string[] args)
         {
             Console.WriteLine("Please input line where you want to remove symbols");
-            stringForClearUp = Console.ReadLine();
-            
-            Console.WriteLine("Please input symbols that you want to remove");
-            symbolsToRemove = Console.ReadLine();
+            StringBuilder stringForClearUp = new StringBuilder(Console.ReadLine());
 
-            RemoveSimillarSimbols();
+            Console.WriteLine("Please input symbols that you want to remove");
+            String symbolsToRemove = Console.ReadLine();
+
+            RemoveSimillarSimbols(stringForClearUp, symbolsToRemove);
 
             Console.WriteLine("Result is: " + stringForClearUp);
         }
 
-        private static void RemoveSimillarSimbols()
+        private static void RemoveSimillarSimbols(StringBuilder stringForClearUp, String symbolsToRemove)
         {
-            List<char> result = new List<char>();
-            char[] symbolsToRemoveArray = symbolsToRemove.ToCharArray();
-
-            foreach(char item in stringForClearUp.ToCharArray())
+            foreach (char item in symbolsToRemove.ToCharArray())
             {
-                if (symbolsToRemove.IndexOf(item) < 0)
-                {
-                    result.Add(item);
-                }
+                stringForClearUp.Replace(item.ToString(), "");
             }
-            stringForClearUp = string.Join("", result);
         }
     }
 }

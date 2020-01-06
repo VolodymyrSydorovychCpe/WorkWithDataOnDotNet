@@ -20,3 +20,14 @@ D:\NURE\visual_projects\works\WorkWithDataOnDotNet\Task5\Task5\obj\Debug\netcore
 D:\NURE\visual_projects\works\WorkWithDataOnDotNet\Task5\Task5\obj\Debug\netcoreapp3.0\Task5.AssemblyInfo.cs
 D:\NURE\visual_projects\works\WorkWithDataOnDotNet\Task5\Task5\obj\Debug\netcoreapp3.0\Task5.dll
 D:\NURE\visual_projects\works\WorkWithDataOnDotNet\Task5\Task5\obj\Debug\netcoreapp3.0\Task5.pdb
+D:\NURE\DotNet\New folder\WorkWithDataOnDotNet\Task5\Task5\obj\Debug\netcoreapp3.0\Task5.csprojAssemblyReference.cache
+D:\NURE\DotNet\New folder\WorkWithDataOnDotNet\Task5\Task5\obj\Debug\netcoreapp3.0\Task5.AssemblyInfoInputs.cache
+D:\NURE\DotNet\New folder\WorkWithDataOnDotNet\Task5\Task5\obj\Debug\netcoreapp3.0\Task5.AssemblyInfo.cs
+D:\NURE\DotNet\New folder\WorkWithDataOnDotNet\Task5\Task5\obj\Debug\netcoreapp3.0\Task5.dll
+D:\NURE\DotNet\New folder\WorkWithDataOnDotNet\Task5\Task5\obj\Debug\netcoreapp3.0\Task5.pdb
+D:\NURE\DotNet\New folder\WorkWithDataOnDotNet\Task5\Task5\bin\Debug\netcoreapp3.0\Task5.exe
+D:\NURE\DotNet\New folder\WorkWithDataOnDotNet\Task5\Task5\bin\Debug\netcoreapp3.0\Task5.deps.json
+D:\NURE\DotNet\New folder\WorkWithDataOnDotNet\Task5\Task5\bin\Debug\netcoreapp3.0\Task5.runtimeconfig.json
+D:\NURE\DotNet\New folder\WorkWithDataOnDotNet\Task5\Task5\bin\Debug\netcoreapp3.0\Task5.runtimeconfig.dev.json
+D:\NURE\DotNet\New folder\WorkWithDataOnDotNet\Task5\Task5\bin\Debug\netcoreapp3.0\Task5.dll
+D:\NURE\DotNet\New folder\WorkWithDataOnDotNet\Task5\Task5\bin\Debug\netcoreapp3.0\Task5.pdb
